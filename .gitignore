@@ -1,0 +1,32 @@
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build caches
+*.tsbuildinfo
+.vite/
+.cache/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json
+
+# Local assessment data and generated exports
+RevenueIQ-Exports*.zip
+01_initial.json
+02_update.json
