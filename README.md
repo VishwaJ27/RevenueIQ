@@ -84,7 +84,3 @@ package.json        Dependencies and npm scripts
 | `npm run build` | Type-check and produce `dist/` |
 | `npm run preview` | Preview the built application |
 | `npm run typecheck` | TypeScript project checks |
-
-## License
-
-No license is granted by default. Review distribution and data-sharing permissions before publishing assessment material.
